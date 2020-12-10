@@ -1,0 +1,38 @@
+.banner {
+	background-color: #e3f5f7;
+	padding: 2em;
+	padding-top: 3em;
+	padding-bottom: 5em;
+}
+
+.hidden {
+	display: none;
+}
+
+.button {
+	margin: 0.5em;
+	padding: 1em;
+	background-color: grey;
+	color: white;
+}
+
+.inset {
+	padding-left: 2em;
+}
+
+.card {
+	background-color: #4CAF50 !important;
+	border: none;
+	color: white;
+	padding: 1.4em 0.7em;
+	margin: 0.3em;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 4em;
+}
+
+.horizontalFlex {
+	display: flex;
+	flex-wrap: wrap;
+}
